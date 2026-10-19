@@ -1,0 +1,6 @@
+{
+  "name": "WorldWallpaper",
+  "description": "Discover, upload, and set high-resolution wallpapers across Nature, Transport, Abstract Art, and more with daily featured art, favorites, and social sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
